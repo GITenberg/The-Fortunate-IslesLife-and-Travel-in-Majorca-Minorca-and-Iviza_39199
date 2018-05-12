@@ -1,0 +1,36 @@
+_repo: The-Fortunate-IslesLife-and-Travel-in-Majorca-Minorca-and-Iviza_39199
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boyd, A. S. (Alexander Stuart)
+    alias: Boyd, Alexander Stuart
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '4548'
+    url: http://www.gutenberg.org/2009/agents/4548
+covers:
+- cover_type: archival
+  image_path: 39199-h/images/cover.png
+creator:
+  author:
+    agent_name: Boyd, Mary Stuart
+    deathdate: 1937
+    gutenberg_agent_id: '3695'
+    url: http://www.gutenberg.org/2009/agents/3695
+description: ''
+gutenberg_issued: '2012-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39199'
+  lccn: '11025458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Majorca (Spain) -- Description and travel'
+- !lcsh 'Minorca (Spain) -- Description and travel'
+- !lcsh 'Ibiza Island (Spain) -- Description and travel'
+title: 'The Fortunate Isles: Life and Travel in Majorca, Minorca and Iviza'
+url: http://www.gutenberg.org/ebooks/39199
